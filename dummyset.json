@@ -1,0 +1,104 @@
+{
+  "railways": [
+    {
+      "id": "1",
+      "cityName": "Brussels",
+      "trainName": "IC 1",
+      "origin": "Brussels Central",
+      "destination": "Antwerp Central",
+      "departureTime": "08:00",
+      "reachingTime": "09:30",
+      "date": "2023-07-01"
+    },
+    {
+      "id": "2",
+      "cityName": "Antwerp",
+      "trainName": "IC 2",
+      "origin": "Antwerp Central",
+      "destination": "Brussels Central",
+      "departureTime": "10:15",
+      "reachingTime": "11:45",
+      "date": "2023-07-01"
+    },
+    {
+      "id": "3",
+      "cityName": "Ghent",
+      "trainName": "IC 3",
+      "origin": "Ghent-Sint-Pieters",
+      "destination": "Liege-Guillemins",
+      "departureTime": "13:30",
+      "reachingTime": "15:45",
+      "date": "2023-07-02"
+    },
+    {
+      "id": "4",
+      "cityName": "Liege",
+      "trainName": "IC 4",
+      "origin": "Liege-Guillemins",
+      "destination": "Ghent-Sint-Pieters",
+      "departureTime": "16:20",
+      "reachingTime": "18:35",
+      "date": "2023-07-02"
+    },
+    {
+      "id": "5",
+      "cityName": "Charleroi",
+      "trainName": "IC 5",
+      "origin": "Brussels Central",
+      "destination": "Charleroi-South",
+      "departureTime": "09:45",
+      "reachingTime": "11:20",
+      "date": "2023-07-03"
+    },
+    {
+      "id": "6",
+      "cityName": "Bruges",
+      "trainName": "IC 6",
+      "origin": "Charleroi-South",
+      "destination": "Brussels Central",
+      "departureTime": "12:40",
+      "reachingTime": "14:15",
+      "date": "2023-07-03"
+    },
+    {
+      "id": "7",
+      "cityName": "Namur",
+      "trainName": "IC 7",
+      "origin": "Brussels Central",
+      "destination": "Namur",
+      "departureTime": "15:55",
+      "reachingTime": "17:10",
+      "date": "2023-07-04"
+    },
+    {
+      "id": "8",
+      "cityName": "Leuven",
+      "trainName": "IC 8",
+      "origin": "Leuven",
+      "destination": "Brussels Central",
+      "departureTime": "08:30",
+      "reachingTime": "08:55",
+      "date": "2023-07-04"
+    },
+    {
+      "id": "9",
+      "cityName": "Mons",
+      "trainName": "IC 9",
+      "origin": "Ghent-Sint-Pieters",
+      "destination": "Mons",
+      "departureTime": "11:10",
+      "reachingTime": "13:25",
+      "date": "2023-07-05"
+    },
+    {
+      "id": "10",
+      "cityName": "Hasselt",
+      "trainName": "IC 10",
+      "origin": "Hasselt",
+      "destination": "Brussels Central",
+      "departureTime": "14:45",
+      "reachingTime": "16:20",
+      "date": "2023-07-05"
+    }
+  ]
+}
